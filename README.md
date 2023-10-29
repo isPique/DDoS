@@ -3,7 +3,7 @@
 * The main purpose of the **DDoS (Distributed Denial-of-Service) attack**;
   - The aim is to prevent normal operation of the target system or service by overloading its resources, reduce its accessibility and interrupt service provision.
   - This often leads to network or services crashing or underperforming, negatively impacts customer experience, and can cause financial losses.
-* In addition, a DDoS attack is not limited to just sending HTTP requests, but is generally made to direct large amounts of traffic from different protocols (HTTP, UDP, TCP, etc.) and different sources to the target system or service.
+* In addition, DDoS attack  is generally made to direct large amounts of traffic from different protocols (HTTP, UDP, TCP, etc.) and different sources to the target system or service.
 
 * The objective of this repository is to serve as an example, it has educational purposes, and in no case does it pretend to be perfect or fully functional. This code expresses how the DDoS attack works.
 
