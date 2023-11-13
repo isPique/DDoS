@@ -12,9 +12,13 @@
 * You don't need anything for installation, just run the script and enter any IP address and port you want.
 
 * For Example;
-
-  - Target IP Address: 142.251.140.36
-  - Port: 80
-
+  ```console
+   Target IP Address: 142.251.140.36
+   Port: 80
+  ```
 * That IP address belongs to Google.
 * Port 80 is the port where HTTP (Hypertext Transfer Protocol) traffic is used as standard. Web servers use this port to serve web pages to clients (browsers) over the HTTP protocol.
+
+# Donations Accepted:
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ispique)
